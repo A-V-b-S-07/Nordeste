@@ -1,0 +1,237 @@
+body{
+  background-image: url(imagens/bigi.jpg);
+}
+
+.estados{color: rgb(95, 177, 202);}
+
+.nordeste{margin-left: 300px;}
+
+
+.Bandeira{margin-left: 90px;}
+
+.veado{margin-left: 110px;}
+
+.segunda_sessao{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+}
+
+.est{margin-left: 10px;
+  border: 1px solid black;
+  
+  width: 36vw;
+  
+  height: 47vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;
+
+}
+
+.dados{ 
+  margin-left: 105px;
+  border: 1px solid black;
+  
+  width: 36vw;
+  
+  height: 47vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;}
+
+.cartografia{
+  margin-top: 15px;
+  margin-left: 450px;
+}
+
+.cult{margin-left: 10px;
+  border: 1px solid black;
+  
+  width: 94vw;
+  
+  height: 30vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;
+
+}
+
+.music{
+  margin-left: 110px;
+  color: rgb(0, 0, 0);
+}
+
+.ritmo{
+  margin-left: 50px;
+  color: rgb(0, 0, 0);}
+
+.primeira_sessao{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;}
+
+.um{
+margin-left: 105px;
+border: 1px solid black;
+
+width: 38vw;
+
+height: 46vh;
+
+background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+
+border-radius: 5px;
+
+box-shadow: 10px 5px 5px black;
+}
+
+.dois{
+  margin-left: 10px;
+border: 1px solid black;
+
+width: 38vw;
+
+height: 46vh;
+
+background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+
+border-radius: 5px;
+
+box-shadow: 10px 5px 5px black;
+}
+
+
+
+.sessao_fotos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  list-style: none;
+
+  width: 93vw;
+  height: 41vh;
+
+  align-self: center;
+
+  background: linear-gradient(rgb(103, 101, 113, 0.34),rgb(103, 101, 113, 0.34)  );}
+
+
+.comidinhas{
+  margin-left: 420px;
+border: 1px solid black;
+
+width: 34vw;
+
+height: 32vh;
+
+background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+
+border-radius: 5px;
+
+box-shadow: 10px 5px 5px black;}
+
+  .comidas{
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    list-style: none;
+  
+    width: 94vw;
+    height: 41vh;
+  
+    align-self: center;
+  
+    background: linear-gradient(rgb(103, 101, 113, 0.34),rgb(103, 101, 113, 0.34)  );}
+  
+
+
+.bichinhos{
+  margin-left: 500px;
+  border: 1px solid black;
+  
+  width: 20vw;
+  
+  height: 42vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;}
+
+.sessao_bichinhos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  list-style: none;
+
+  width: 95vw;
+  height: 41vh;
+
+  align-self: center;
+
+  background: linear-gradient(rgb(103, 101, 113, 0.34),rgb(103, 101, 113, 0.34)  );}
+
+
+
+.plantinhas{  margin-left: 500px;
+  border: 1px solid black;
+  
+  width: 23vw;
+  
+  height: 48vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;
+}  
+
+.sig{color: rgb(0, 0, 0);;
+  margin-left: 20px;
+  border: 1px solid black;
+  
+  width: 93vw;
+  
+  height: 15vh;
+  
+  background-image: linear-gradient(to top, rgb(255, 229, 159), rgb(23, 209, 255));
+  
+  border-radius: 5px;
+  
+  box-shadow: 10px 5px 5px black;
+  margin-top: 25px;
+}
+
+.plantas{
+
+  margin-left: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  list-style: none;
+
+  width: 80vw;
+  height: 38vh;
+
+  align-self: center;
+
+  background: linear-gradient(rgb(103, 101, 113, 0.34),rgb(103, 101, 113, 0.34)  );}
